@@ -1,0 +1,17 @@
+/*************************
+           CSS
+**************************/
+h4{
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    color: #072160;
+    font-family: sans-serif;
+    border: solid #072160;
+}
+main{
+    width: 845px;
+    height: 1024px;
+    margin: auto;
+    background-image: url('original.jpg');
+}
