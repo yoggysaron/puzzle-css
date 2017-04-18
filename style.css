@@ -1,6 +1,91 @@
-/*************************
-           CSS
-**************************/
+
+#image1 {
+
+transform: rotate(270deg) ;
+position: absolute;
+top: 150px; 
+left: 500px; 
+}
+
+#image2 {
+
+    position: absolute;
+    left: 740px; 
+    top: 125px;
+}
+
+#image3 {
+
+    position: absolute;
+    top: 320px ; 
+    left: 1080px; 
+}
+
+#image4 {
+
+    position: absolute;
+    top: 320px; 
+    left: 820px; 
+}
+
+#image5 {
+
+    position: absolute;
+    top: 385px; 
+    left: 530px; 
+}
+
+#image6 {
+
+    position: absolute;
+    top: 645px; 
+    left: 535px; 
+}
+
+#image7 {
+
+transform: rotate(90deg);
+    position: absolute;
+    top: 615px; 
+    left: 725px; 
+}
+
+#image8 {
+    position: absolute;
+    top: 125px;
+    left: 1075px; 
+}
+
+#image9 {
+
+transform: rotate(180deg);
+    position: absolute;
+    top: 590px ; 
+    left: 1010px ;
+}
+
+#image10 {
+
+transform: rotate(-90deg);
+    position: absolute;
+    top: 850px ; 
+    left: 1075px; 
+}
+
+#image11 {
+
+transform: rotate(-90deg);
+    position: absolute;
+    top: 860px; 
+    left: 870px; 
+}
+
+#image12 {
+
+    position: absolute;
+    top: 920px ; 
+    left: 530px ; 
+}
 h4{
     width: 800px;
     margin: 20px auto;
@@ -15,3 +100,8 @@ main{
     margin: auto;
     background-image: url('original.jpg');
 }
+
+    Contact GitHub API Training Shop Blog About 
+
+
+
